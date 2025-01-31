@@ -75,10 +75,6 @@ To run Cura locally, follow these steps:
     pnpm dev
     ```
 
-## ☕ Buy Me a Coffee
-If you enjoy using caps.ai, consider supporting my work!  
-[Buy Me a Coffee ☕](https://buymeacoffee.com/ASHISH15012005)
-
 ## 📜 License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
